@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2024-01-15",
+    "description": "Sale of Product A",
+    "amount": 1500.00
+  },
+  {
+    "date": "2024-02-20",
+    "description": "Service B Invoice",
+    "amount": 750.00
+  },
+  {
+    "date": "2024-03-10",
+    "description": "Sale of Product C",
+    "amount": 2000.00
+  }
+]

@@ -1,0 +1,40 @@
+{
+    "invoice_items": [
+        {
+            "invoice_number": "123",
+            "date": "2025-01-01",
+            "description": "سولار",
+            "debit": 0.0,
+            "credit": 49.0
+        },
+        {
+            "invoice_number": "22122",
+            "date": "2025-01-22",
+            "description": "فاتورة كهرباء",
+            "debit": 0.0,
+            "credit": 23.213
+        },
+        {
+            "invoice_number": "21243",
+            "date": "2025-01-21",
+            "description": "فاتورة ماء",
+            "debit": 0.0,
+            "credit": 10.0
+        },
+        {
+            "invoice_number": "14323",
+            "date": "2025-01-05",
+            "description": "قرطاسية",
+            "debit": 0.0,
+            "credit": 32.0
+        },
+        {
+            "invoice_number": "3322",
+            "date": "2024-02-22",
+            "description": "قرطاسيه",
+            "debit": 0.0,
+            "credit": 43.0
+        }
+    ],
+    "initial_balance": 500.0
+}
